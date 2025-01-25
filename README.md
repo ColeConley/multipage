@@ -18,14 +18,7 @@ Welcome to the repository for **Cole Conley's Personal Website**! This project i
   - Styled using a custom CSS file for a clean and professional look.
   - Responsive layout suitable for various devices.
 
-## File Structure
 
-- `index.html`: The Home page of the website.
-- `resume.html`: The Resume page, designed to display my resume.
-- `styles.css`: The CSS file for styling the website.
-- `README.md`: This file.
-
-## How to Use
 
 ### Local Setup
 
