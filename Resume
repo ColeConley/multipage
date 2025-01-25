@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cole Conley's Resume</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Resume</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Cole Conley's Resume</h2>
+      <p>Deloitte | Cincinnati, OH | July 2023 – Present
+IAM Developer / Engineer - Solution Consultant
+Architect and lead the development of the authentication and authorization framework for a new application built to modernize and integrate a legacy record management system, using ForgeRock as the centralized IdP.
+Designed and implemented ForgeRock AM as the sole Identity Provider, creating custom authentication trees and APIs to support OAuth 2.0, OIDC, and SAML 2.0 flows for secure and seamless user authentication and authorization.
+Acted as the IAM architect and decision-maker, responsible for designing and implementing authentication and authorization workflows, making strategic technology decisions, and ensuring alignment with best practices and business requirements.
+Developed interactive ForgeRock API integrations, enabling secure user management (create, update, delete, lock/unlock accounts) and token lifecycle management, including authorization codes, access tokens, and refresh tokens for OAuth 2.0 Authorization Code Grant flows.
+Collaborated with frontend, backend, and database development teams to ensure seamless integration of authentication and authorization into the new application’s architecture.
+Spearheaded security leadership, serving as the functional security specialist and advisor, ensuring compliance with industry security standards and guidelines, and addressing security concerns across the application lifecycle.
+Conducted regular security reviews and audits, identifying vulnerabilities, making proactive recommendations, and implementing corrective measures to ensure a robust security posture for the application.
+Developed a secure user session management framework using ForgeRock DS, implementing session validation, invalidation, and introspection APIs to enhance user account protection.
+Delivered risk-based authentication (RBA) solutions to strengthen security, leveraging advanced threat detection mechanisms and analyzing user behavior to enforce dynamic authentication measures.
+Led the transition from a command-line-based legacy application to a modern web application by designing a scalable authentication and authorization architecture integrated with the new UI, backend, and database layers.
+Performed data analysis using Splunk, SQL, and custom scripts to monitor authentication flows, token usage, and login activity, providing actionable insights to stakeholders.
+Guided the development of a self-service onboarding tool, enabling external applications to integrate with ForgeRock SSO using SAML and OAuth, reducing onboarding times and improving user experience.
+Acted as the security lead for the project, advising on security best practices, ensuring adherence to NIST guidelines, and overseeing security across the full software development lifecycle (SDLC).
+Championed secure design principles, working cross-functionally to integrate security controls into every stage of application development, ensuring long-term scalability and protection against potential threats.
+</p>
+    </section>
+    <div class="button-container">
+      <a href="index.html" class="button">Home</a>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 Cole Conley</p>
+  </footer>
+</body>
+</html>
