@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cole Conley's Personal Webpage</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Cole Conley's Personal Webpage</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#certifications">Certifications</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="resume.html">Resume</a></li> <!-- Link to the Resume page -->
+    </ul>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <p>Hi, I'm Cole Conley, an experienced IAM Developer/Engineer currently working at Deloitte...</p>
+    </section>
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>ForgeRock AM, IDM, DS, IG</li>
+        <li>SSO: SAML / OAuth</li>
+        <li>Risk-Based Authentication</li>
+        <!-- Add more skills here -->
+      </ul>
+    </section>
+    <section id="experience">
+      <h2>Experience</h2>
+      <ul>
+        <li>Deloitte - IAM Developer/Engineer</li>
+        <li>PwC - IAM Developer/Engineer</li>
+        <li>Atos - IAM Developer/Engineer</li>
+      </ul>
+    </section>
+    <section id="certifications">
+      <h2>Certifications</h2>
+      <ul>
+        <li>Microsoft Certified: Identity and Access Administrator (SC-300)</li>
+        <li>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)</li>
+        <li>Microsoft Certified: Azure Fundamentals (AZ-900)</li>
+      </ul>
+    </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:cole.conley2018@gmail.com">cole.conley2018@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/cole-conley-173b3b152" target="_blank">linkedin.com/in/cole-conley-173b3b152</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Cole Conley</p>
+  </footer>
+</body>
+</html>
